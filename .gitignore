@@ -1,0 +1,6 @@
+# Ignore Debug Outputs
+/Debug/*
+!/Debug/*.hex
+
+# Ignore Release Outputs
+/Release/*
